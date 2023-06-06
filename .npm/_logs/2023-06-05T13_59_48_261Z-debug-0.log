@@ -1,0 +1,50 @@
+0 verbose cli /home/dci-student/.nvm/versions/node/v19.8.1/bin/node /home/dci-student/.nvm/versions/node/v19.8.1/bin/npm
+1 info using npm@9.5.1
+2 info using node@v19.8.1
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/home/dci-student/.nvm/versions/node/v19.8.1/lib/node_modules/npm/npmrc Completed in 0ms
+6 timing config:load:builtin Completed in 0ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 2ms
+10 timing config:load:file:/home/dci-student/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 1ms
+12 timing config:load:file:/home/dci-student/.nvm/versions/node/v19.8.1/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 0ms
+14 timing config:load:setEnvs Completed in 1ms
+15 timing config:load Completed in 8ms
+16 timing npm:load:configload Completed in 8ms
+17 timing npm:load:mkdirpcache Completed in 1ms
+18 timing npm:load:mkdirplogs Completed in 0ms
+19 verbose title npm init
+20 verbose argv "init" "--yes"
+21 timing npm:load:setTitle Completed in 1ms
+22 timing config:load:flatten Completed in 2ms
+23 timing npm:load:display Completed in 3ms
+24 verbose logfile logs-max:10 dir:/home/dci-student/.npm/_logs/2023-06-05T13_59_48_261Z-
+25 verbose logfile /home/dci-student/.npm/_logs/2023-06-05T13_59_48_261Z-debug-0.log
+26 timing npm:load:logFile Completed in 4ms
+27 timing npm:load:timers Completed in 0ms
+28 timing npm:load:configScope Completed in 0ms
+29 timing npm:load Completed in 18ms
+30 silly logfile start cleaning logs, removing 1 files
+31 silly logfile done cleaning log files
+32 silly package data {
+32 silly package data   dependencies: { batmansay: '^3.0.1', cow: '^0.2.3', hi: '^0.0.0' },
+32 silly package data   name: 'dci-student',
+32 silly package data   version: '1.0.0',
+32 silly package data   main: 'index.js',
+32 silly package data   devDependencies: {},
+32 silly package data   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+32 silly package data   keywords: [],
+32 silly package data   author: '',
+32 silly package data   license: 'ISC',
+32 silly package data   description: '',
+32 silly package data   [Symbol(newline)]: '\n',
+32 silly package data   [Symbol(indent)]: '  '
+32 silly package data }
+33 timing command:init Completed in 22ms
+34 verbose exit 0
+35 timing npm Completed in 61ms
+36 info ok

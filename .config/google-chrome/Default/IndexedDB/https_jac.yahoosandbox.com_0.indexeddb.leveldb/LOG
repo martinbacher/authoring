@@ -1,0 +1,7 @@
+2023/06/05-18:25:53.562 ed6 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/05-18:25:53.562 ed6 Recovering log #3
+2023/06/05-18:25:53.562 ed6 Reusing old log /home/dci-student/.config/google-chrome/Default/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb/000003.log 
+2023/06/05-18:25:56.560 ed7 Level-0 table #5: started
+2023/06/05-18:25:56.561 ed7 Level-0 table #5: 391 bytes OK
+2023/06/05-18:25:56.561 ed7 Delete type=0 #3
+2023/06/05-18:25:56.561 ed7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

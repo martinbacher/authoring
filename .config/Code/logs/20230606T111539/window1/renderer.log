@@ -1,0 +1,5 @@
+2023-06-06 11:15:40.262 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-06 11:15:43.291 [info] [perf] Render performance baseline is 21ms
+2023-06-06 11:17:15.438 [error] Failed to execute git
+2023-06-06 11:27:30.509 [error] Failed to execute git
+2023-06-06 11:27:40.284 [error] Failed to execute git

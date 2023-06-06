@@ -1,0 +1,6 @@
+2023/06/05-14:23:06.712 ed6 Creating DB /home/dci-student/.config/google-chrome/Default/IndexedDB/https_cf324a1ad751a265d3dcc8131ac6acb6.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2023/06/05-14:23:06.714 ed6 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_cf324a1ad751a265d3dcc8131ac6acb6.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/05-14:23:35.886 ed7 Level-0 table #5: started
+2023/06/05-14:23:35.887 ed7 Level-0 table #5: 480 bytes OK
+2023/06/05-14:23:35.887 ed7 Delete type=0 #3
+2023/06/05-14:23:35.888 ed7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

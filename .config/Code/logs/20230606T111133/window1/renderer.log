@@ -1,0 +1,34 @@
+2023-06-06 11:11:34.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-06 11:11:37.187 [info] [perf] Render performance baseline is 19ms
+2023-06-06 11:12:32.061 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-06 11:12:34.990 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-06 11:12:39.901 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-06 11:12:43.444 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)

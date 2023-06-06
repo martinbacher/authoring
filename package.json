@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "batmansay": "^3.0.1",
+    "cow": "^0.2.3",
+    "flash": "^1.1.0",
+    "hi": "^0.0.0",
+    "robin": "^0.1.0"
+  },
+  "name": "dci-student",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

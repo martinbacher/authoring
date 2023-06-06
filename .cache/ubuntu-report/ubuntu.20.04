@@ -1,0 +1,74 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "21C30016GE",
+    "Family": "ThinkPad L15 Gen 3"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "R1XET36W (1.18 )"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "12",
+    "Threads": "1",
+    "Cores": "10",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "154",
+    "Stepping": "4",
+    "Name": "12th Gen Intel(R) Core(TM) i5-1235U",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "4628"
+    }
+  ],
+  "RAM": 16.1,
+  "Partitions": [
+    490.6,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx193mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "de_DE",
+  "Timezone": "Europe/Berlin",
+  "Install": {
+    "Media": "Ubuntu 20.04.4 LTS \"Focal Fossa\" - Release amd64 (20220223)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "de",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "44": "console_setup",
+      "45": "prepare",
+      "52": "partman",
+      "67": "start_install",
+      "71": "timezone",
+      "80": "usersetup",
+      "98": "user_done",
+      "314": "done"
+    }
+  }
+}

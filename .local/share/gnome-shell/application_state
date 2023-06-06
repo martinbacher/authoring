@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="slack_slack.desktop" score="2" last-seen="1685983287"/>
+    <application id="gnome-language-selector.desktop" score="224" last-seen="1685695607"/>
+    <application id="gkbd-keyboard-display.desktop" score="1" last-seen="1685947896"/>
+    <application id="org.gnome.Nautilus.desktop" score="896" last-seen="1686039395"/>
+    <application id="yelp.desktop" score="0" last-seen="1686034032"/>
+    <application id="code.desktop" score="570" last-seen="1686043663"/>
+    <application id="zoom-client_zoom-client.desktop" score="2822" last-seen="1686043677"/>
+    <application id="org.gnome.Terminal.desktop" score="1443" last-seen="1686042939"/>
+    <application id="google-chrome.desktop" score="706" last-seen="1686043524"/>
+  </context>
+</application-state>

@@ -1,0 +1,20 @@
+2023-06-06 11:15:40.811 [info] Extension host with pid 98044 started
+2023-06-06 11:15:40.811 [info] Skipping acquiring lock for /home/dci-student/.config/Code/User/workspaceStorage/71b582069af4affb64497d7eea4315ac.
+2023-06-06 11:15:40.842 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-06 11:15:40.871 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-06 11:15:40.872 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-06-06 11:15:40.890 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-06 11:15:40.912 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-06 11:15:41.001 [info] Eager extensions activated
+2023-06-06 11:15:41.073 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-06 11:15:41.075 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-06 11:15:41.083 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-06-06 11:15:41.093 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2023-06-06 11:15:41.251 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+2023-06-06 11:15:41.983 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-06-06 11:15:42.116 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+2023-06-06 11:15:42.126 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-06-06 11:17:31.876 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-06-06 11:17:31.882 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-06-06 11:27:40.231 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-06-06 11:27:40.709 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

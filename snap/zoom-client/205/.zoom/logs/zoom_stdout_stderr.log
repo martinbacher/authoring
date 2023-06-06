@@ -1,0 +1,52 @@
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/205/zoom
+cmd line: zoommtg://us02web.zoom.us/join?action=join&confno=7837733953&pwd=WGlEOWNMdXFQbkVhelNrcVM3b1NFdz09&confid=dXRpZD1VVElEXzYyZmY3ZmNhZjkwODQxZDA5ZDg3ZDI1MDdkNThhYzUwJnVzcz01SzlGLTcxRHUxSmhvZXZTd1pia3Fvc1owcDg4d216TWF6bjNMRFFLbC14VjVKbEphTGFQQ2VNX2JaclIxN1E0THZjQWlvSTFFbTNqc1otMlctYjdIdmkxWk5WV01oZDlJTElPYnRnbWQzYmgwY1RuMzd6bFREN1N1MEkuR3dsV1VDczloS19zWGh2dCZ0aWQ9ODI3OTFiMWQ3OTZjNDAxYmE4YjliYTJkNjIyYjE3NWI%3D&browser=chrome
+Start subprocess: /snap/zoom-client/205/zoom/zoom sucessfully,  process pid: 82409 
+No PulseAudio daemon running, or not running as session daemon.
+                             Class      App      Lib Possible Culprit Flags
+                resip::Connection      656      656 
+                      resip::Data       36       36 
+                 resip::DnsResult     1080     1080 
+                   resip::Headers        1        1 
+          resip::MsgHeaderScanner       40       40 
+                resip::SipMessage     5224     5224 
+         resip::TransportSelector      896      896 
+                     resip::Tuple      128      128 
+              resip::UdpTransport     1144     1144 
+          resip::GenericIPAddress       28       28 
+
+zoom started.
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+                             Class      App      Lib Possible Culprit Flags
+                resip::Connection      656      656 
+                      resip::Data       36       36 
+                 resip::DnsResult     1080     1080 
+                   resip::Headers        1        1 
+          resip::MsgHeaderScanner       40       40 
+                resip::SipMessage     5224     5224 
+         resip::TransportSelector      896      896 
+                     resip::Tuple      128      128 
+              resip::UdpTransport     1144     1144 
+          resip::GenericIPAddress       28       28 
+
+                             Class      App      Lib Possible Culprit Flags
+                resip::Connection      656      656 
+                      resip::Data       36       36 
+                 resip::DnsResult     1080     1080 
+                   resip::Headers        1        1 
+          resip::MsgHeaderScanner       40       40 
+                resip::SipMessage     5224     5224 
+         resip::TransportSelector      896      896 
+                     resip::Tuple      128      128 
+              resip::UdpTransport     1144     1144 
+          resip::GenericIPAddress       28       28 
+
+zoom started.
+zoom started.
+Client: Breakpad is using Single Client Mode! client fd = -1
+Zoom is running, send message to it: zoommtg://us02web.zoom.us/join?action=join&confno=7837733953&pwd=WGlEOWNMdXFQbkVhelNrcVM3b1NFdz09&confid=dXRpZD1VVElEXzYyZmY3ZmNhZjkwODQxZDA5ZDg3ZDI1MDdkNThhYzUwJnVzcz01SzlGLTcxRHUxSmhvZXZTd1pia3Fvc1owcDg4d216TWF6bjNMRFFLbC14VjVKbEphTGFQQ2VNX2JaclIxN1E0THZjQWlvSTFFbTNqc1otMlctYjdIdmkxWk5WV01oZDlJTElPYnRnbWQzYmgwY1RuMzd6bFREN1N1MEkuR3dsV1VDczloS19zWGh2dCZ0aWQ9ODI3OTFiMWQ3OTZjNDAxYmE4YjliYTJkNjIyYjE3NWI%3D&browser=chrome
+Exit zoom as another zoom instance is running!
+No PulseAudio daemon running, or not running as session daemon.
+zoom exited normally, exit code is 0 .
+ZoomLauncher exit.

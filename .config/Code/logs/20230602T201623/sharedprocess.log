@@ -1,0 +1,9 @@
+2023-06-02 20:16:24.807 [info] Starting worker process with pid 12508 (type: fileWatcher, window: 1).
+2023-06-02 20:16:28.600 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-06-02 20:16:28.743 [info] Installing extension: streetsidesoftware.code-spell-checker
+2023-06-02 20:16:30.609 [info] Extension signature verification: streetsidesoftware.code-spell-checker. Verification status: Verified.
+2023-06-02 20:16:30.733 [info] Extracted extension to /home/dci-student/.vscode/extensions/.7ff383b6-92cb-41f1-865f-564408b5f078: streetsidesoftware.code-spell-checker
+2023-06-02 20:16:30.738 [info] Renamed to /home/dci-student/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4
+2023-06-02 20:16:30.739 [info] Extracting extension completed. streetsidesoftware.code-spell-checker
+2023-06-02 20:16:30.746 [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+2023-06-02 20:16:30.747 [info] Marked extension as uninstalled streetsidesoftware.code-spell-checker-2.20.3
